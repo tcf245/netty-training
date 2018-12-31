@@ -24,3 +24,5 @@ obj
 gradle
 .gradle
 .DS_Store
+
+gradle*
