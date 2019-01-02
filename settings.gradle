@@ -1,2 +1,4 @@
 rootProject.name = 'netty-training'
+include 'netty-chatroom'
+findProject(':netty-chatroom')?.name = 'netty'
 
